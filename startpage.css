@@ -58,7 +58,9 @@ section form {
     text-align: center;
 }
 
-
+nav ul {
+    list-style-type: none;
+}
 
 footer {
     background-color: #51afef;
