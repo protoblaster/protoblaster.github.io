@@ -1,0 +1,71 @@
+/* import font from google */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #51afef;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    line-height: 1.2;
+}
+
+h2 {
+    line-height: 1.2;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+
+}
+
+#searchbar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#searchbtn {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #51afef;
+}
+
+#searchbtn:hover {
+    background-color: #4195ce;    
+}
+
+section .search-bar-header {
+    text-align: center;
+}
+
+section form {
+    text-align: center;
+}
+
+
+
+footer {
+    background-color: #51afef;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
